@@ -24,7 +24,7 @@ To get you started, we've created a Brand Bot that talks to these 3 other sub-bo
 Pre-requisites:
 1. Node version 6.x
 2. npm
-3. Account on gupshup.io
+3. Account on https://www.interbot.cc
 
 To make this quick and easy, you have to install yeoman, which installs the scaffolding for the bot. Follow the steps in your command line:
 
@@ -40,7 +40,7 @@ This will now install the bot in your directory. Now, you will be asked some bas
     > description of your bot (optional)?
     > what is your email id?
 
-- To get your API key, click on your profile pic on the top right in gupshup.io -> https://www.gupshup.io/developer/home
+- To get your API key, click on your profile pic on the top right on interbot.cc -> https://www.interbot.cc
 
 Once the installation is complete, you can now test the bot. Goto Mybots section on Interbot -> https://www.interbot.cc/mybots, click on your bot to chat with it. Use the sample queries listed above.   
 
