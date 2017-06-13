@@ -22,7 +22,7 @@ Some sample queries you can ask are
 To get you started, we've created a Brand Bot that talks to these 3 other sub-bots. Follow the instructions to view the bot code and test the bot.
 
 Pre-requisites:
-1. Node
+1. Node version 6.x
 2. npm
 3. Account on gupshup.io
 
@@ -38,10 +38,11 @@ This will now install the bot in your directory. Now, you will be asked some bas
     > what is your api key? 
     > name of your bot?
     > description of your bot (optional)?
+    > what is your email id?
 
-- To get your API key, click on your profile pic on the top right in gupshup.io
+- To get your API key, click on your profile pic on the top right in gupshup.io -> https://www.gupshup.io/developer/home
 
-Once the installation is complete, you can test bot on messenger -> https://www.messenger.com/t/gupshupproxybot & type "proxy [your bot name]"   
+Once the installation is complete, you can now test the bot. Goto Mybots section on Interbot -> https://www.interbot.cc/mybots, click on your bot to chat with it. Use the sample queries listed above.   
 
 The entry point for the bot is index.js. View the index.js file to make any changes to your Bot.
 To understand how the Bot code executes, please view the documentation here -> https://www.gupshup.io/developer/docs/bot-platform/guide/intro-to-gupshup-bot-builder
